@@ -1,5 +1,3 @@
-package estrutura_dados_sistemas_inteligentes.aula2;
-
 import javax.swing.JOptionPane;
 
 public class pensar_responder_aula2 {

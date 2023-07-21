@@ -1,4 +1,3 @@
-package estrutura_dados_sistemas_inteligentes.aula2;
 import javax.swing.*;
 
 class Somar {
